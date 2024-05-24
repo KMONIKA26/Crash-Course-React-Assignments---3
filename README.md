@@ -1,6 +1,6 @@
 # Crash-Course-React-Assignments---3
 
-#React Assignments
+# React Assignments
 This repository contains assignments focused on various React concepts, including useEffect, component unmount phase, useRef, Context API, and Routing.
 
 # Table of Contents
@@ -137,9 +137,9 @@ npm start
 Open your browser and navigate to http://localhost:3000 to view the assignments.
 ```
 
-#Contributing
+# Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
-#License
+# License
 This project is licensed under the MIT License.
 
